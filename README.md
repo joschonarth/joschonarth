@@ -3,7 +3,7 @@
 💻 6° Semestre de Ciência da Computação
 
 <div>
-  <!--<a href="https://">-->
+  <a href="https://github.com/joschonarth/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joschonarth&show_icons=true&theme=dark&include_all_commits=true"/>
     <!-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joschonarth&layout=compact&langs_count=16&theme=dark&hide_progress=true"/>
