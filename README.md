@@ -2,14 +2,14 @@
 
 💻 6° Semestre de Ciência da Computação
 
+
+### 🌐 Conecte-se comigo
 <div>
-  <a href="https://github.com/joschonarth/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joschonarth&show_icons=true&theme=dark&include_all_commits=true"/>
-    <!-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joschonarth&layout=compact&langs_count=16&theme=dark&hide_progress=true"/>
+    <a href="https://www.linkedin.com/in/joao-otavio-schonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
+
 ### ⚡Habilidades
 
 <!--<img align="center" alt"HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
@@ -24,12 +24,13 @@
   
 </div>
 
-##
-### 🌐 Conecte-se comigo
-<div>
-    <a href="https://www.linkedin.com/in/joao-otavio-schonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-##
+
+### 📊 GitHub Stats
+<div>
+  <a href="https://github.com/joschonarth/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joschonarth&show_icons=true&theme=dark&include_all_commits=true"/>
+    <!-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joschonarth&layout=compact&langs_count=16&theme=dark&hide_progress=true"/>
+</div>
 
