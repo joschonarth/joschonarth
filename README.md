@@ -20,11 +20,11 @@
   <img align="center" alt"CSS3" height="30" widht="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt"JavaScript" height="30" widht="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt"Java" height="30" widht="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt"GIT" height="30" widht="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">  
-  
+  <img align="center" alt"GIT" height="30" widht="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">    
 </div>
-
-
+<!--
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,java,git&theme=light)](https://skillicons.dev)
+-->
 
 ### 📊 GitHub Stats
 <div>
@@ -33,4 +33,7 @@
     <!-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joschonarth&layout=compact&langs_count=16&theme=dark&hide_progress=true"/>
 </div>
+
+
+
 
