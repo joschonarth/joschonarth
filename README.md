@@ -3,9 +3,9 @@
 💻 6° Semestre de Ciência da Computação
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joschonarth&show_icons=true&theme=dark&include_all_commits=true&border_color=fff0"/>
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joschonarth&show_icons=true&theme=dark&include_all_commits=true&border_color=fff0"/>
     <!-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joschonarth&layout=compact&langs_count=16&theme=dark&hide_progress=true&border_color=fff0"/>
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joschonarth&layout=compact&langs_count=16&theme=dark&hide_progress=true&border_color=fff0"/>
 </div>
 
 <!--
