@@ -21,7 +21,7 @@
 -->
 
 ### ⚡Habilidades
-
+<!--
 <div style="display: inline_block">
   <img align="center" alt"Python" height="30" widht="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt"HTML5" height="30" widht="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,9 +30,9 @@
   <img align="center" alt"Java" height="30" widht="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt"GIT" height="30" widht="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">    
 </div>
-<!--
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,java,git&theme=light)](https://skillicons.dev)
 -->
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,java,git&theme=light)](https://skillicons.dev)
+
 
 ### 🌐 Conecte-se comigo
 <div>
