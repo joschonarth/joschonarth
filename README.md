@@ -1,6 +1,6 @@
 ## João Otávio Schonarth
 
-💻 6° Semestre de Ciência da Computação
+💻 Estudante de Ciência da Computação
 
 <!--
 <div>
