@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,java,git&theme=light)](https://skillicons.dev)
 
 ### 🌐 Conecte-se comigo
-<div>
-    <a href="https://www.linkedin.com/in/joschonarth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:joschonarth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joschonarth/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joschonarth@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/joschonarth/)
