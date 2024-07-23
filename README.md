@@ -9,7 +9,7 @@
 
 ### ⚡Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,java,html,css,bootstrap,mysql,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,javascript,react,java,spring,mysql,mongodb,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Conecte-se comigo
 
