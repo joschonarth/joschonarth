@@ -9,7 +9,19 @@
 
 ### ⚡Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,javascript,react,java,spring,mysql,mongodb,git,github&theme=dark)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,javascript,react,java,spring,mysql,mongodb,git,github&theme=dark)](https://skillicons.dev) -->
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50">](https://getbootstrap.com/)
+[<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
+[<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
+[<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
+[<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
+[<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50">](https://www.mysql.com/)
+[<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50">](https://www.mongodb.com/)
+[<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 
 ### 🌐 Conecte-se comigo
 
