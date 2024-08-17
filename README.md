@@ -1,6 +1,6 @@
 ## João Otávio Schonarth
 
-💻 Estudante de Ciência da Computação
+💻 Estudante de Ciência da Computação e Full-Stack Developer
 
 <div>
   <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joschonarth&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=151515&title_color=a277ff&text_color=FFF&border_radius=3&border_color=a277ff&icon_color=61ffca&theme=jolly" alt="GitHub stats">
