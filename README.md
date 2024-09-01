@@ -4,8 +4,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A277FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+João+Otávio+Schonarth)](https://git.io/typing-svg)
 
-  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A277FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+João+Otávio+Schonarth;I'm+a+Full-Stack+Developer)](https://git.io/typing-svg) -->
-
 </div>
 
 <div align="center">
@@ -21,18 +19,18 @@
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50">](https://getbootstrap.com/)
 [<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://www.typescriptlang.org/)
 [<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
-[<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://reactjs.org/)
+[<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://angular.dev/)
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
-[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50">](https://spring.io/)
+[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50">](https://nodejs.org/)
 [<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50">](https://www.mongodb.com/)
-[<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50">](https://www.mongodb.com/)
-[<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.mongodb.com/)
-[<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50">](https://www.mongodb.com/)
+[<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50">](https://firebase.google.com/)
+[<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
+[<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50">](https://www.postman.com/)
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 
@@ -44,6 +42,8 @@
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-A277FF?style=for-the-badge)](https://web.dio.me/users/joschonarth/)
 
 </div>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joschonarth&bg_color=000000&color=A277FF&line=A277FF&point=A277FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
