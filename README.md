@@ -26,6 +26,7 @@
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
 [<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50">](https://nodejs.org/)
+[<img src="https://skillicons.dev/icons?i=django&theme=dark" width="50">](https://www.djangoproject.com/)
 [<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50">](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50">](https://www.mongodb.com/)
