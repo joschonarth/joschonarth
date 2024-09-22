@@ -17,13 +17,14 @@
 
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50">](https://getbootstrap.com/)
 [<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://www.typescriptlang.org/)
+[<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50">](https://getbootstrap.com/)
+[<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
 [<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
 [<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://angular.dev/)
-[<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
-<!-- [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/) -->
+<!-- [<img src="https://skillicons.dev/icons?i=next&theme=dark" width="50">](https://nextjs.org/) -->
+<!-- [<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50">](https://vitejs.dev/) -->
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
