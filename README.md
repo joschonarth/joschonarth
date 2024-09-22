@@ -23,7 +23,7 @@
 [<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
 [<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://angular.dev/)
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
-[<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50">](https://vitejs.dev/)
+<!-- [<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50">](https://vitejs.dev/) -->
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
