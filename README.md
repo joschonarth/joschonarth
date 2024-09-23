@@ -23,8 +23,7 @@
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
 [<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
 [<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://angular.dev/)
-<!-- [<img src="https://skillicons.dev/icons?i=next&theme=dark" width="50">](https://nextjs.org/) -->
-<!-- [<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50">](https://vitejs.dev/) -->
+
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
@@ -39,6 +38,14 @@
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 
+
+<!--[<img src="https://skillicons.dev/icons?i=next&theme=dark" width="50">](https://nextjs.org/)
+[<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50">](https://vitejs.dev/)
+[<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="50">]()
+[<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50">]()
+[<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50">]()
+[<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="50">]()
+[<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50">]()-->
 
 ## 🌐 Connect with me
 
