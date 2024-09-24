@@ -45,7 +45,10 @@
 [<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50">]()
 [<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50">]()
 [<img src="https://skillicons.dev/icons?i=maven&theme=dark" width="50">]()
-[<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50">]()-->
+[<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50">]()
+[<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50">]()-->
+
+
 
 ## 🌐 Connect with me
 
