@@ -47,6 +47,8 @@
 [![Rocketseat Profile](https://img.shields.io/badge/-Rocketseat-8C67DA?style=for-the-badge)](https://app.rocketseat.com.br/me/joschonarth)
 [![DIO Profile](https://img.shields.io/badge/-DIO%20Profile-000000?style=for-the-badge)](https://web.dio.me/users/joschonarth/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joschonarth&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joschonarth&bg_color=000000&color=A277FF&line=A277FF&point=A277FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
