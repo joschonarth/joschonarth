@@ -49,6 +49,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joschonarth&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
 
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=joschonarth&theme=radical) 
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joschonarth&bg_color=000000&color=A277FF&line=A277FF&point=A277FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
