@@ -49,7 +49,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joschonarth&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=joschonarth&theme=radical) 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=joschonarth&theme=radical&column=-1) 
 
 </div>
 
