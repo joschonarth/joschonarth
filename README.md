@@ -53,6 +53,6 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joschonarth&bg_color=000000&color=A277FF&line=A277FF&point=A277FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![João Otávio Schonarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joschonarth&bg_color=000000&color=A277FF&line=A277FF&point=A277FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=footer"/>
