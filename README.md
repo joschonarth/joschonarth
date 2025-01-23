@@ -20,12 +20,12 @@
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
 [<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50">](https://nodejs.org/)
 [<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50">](https://flask.palletsprojects.com/)
-[<img src="https://skillicons.dev/icons?i=django&theme=dark" width="50">](https://www.djangoproject.com/)
 [<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50">](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50">](https://www.mongodb.com/)
 [<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50">](https://firebase.google.com/)
 [<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
+[<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50">](https://aws.amazon.com/)
 
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
