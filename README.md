@@ -24,8 +24,7 @@
 [<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50">](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50">](https://www.mongodb.com/)
 [<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50">](https://firebase.google.com/)
-[<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
-[<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50">](https://aws.amazon.com/)
+
 
 [<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -36,9 +35,10 @@
 [<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
 [<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://angular.dev/)
 
-[<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50">](https://www.postman.com/)
-[<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
+[<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50">](https://aws.amazon.com/)
 
 ## 🌐 Connect with me
 
