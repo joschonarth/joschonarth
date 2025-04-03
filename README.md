@@ -31,8 +31,8 @@
 [<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
 [<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50">](https://getbootstrap.com/)
-[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
