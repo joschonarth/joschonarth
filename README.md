@@ -17,16 +17,21 @@
 
 [<img src="https://skillicons.dev/icons?i=python&theme=dark" width="50">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50">](https://www.java.com/)
-[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50">](https://nodejs.org/)
 [<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50">](https://spring.io/)
 [<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50">](https://flask.palletsprojects.com/)
+[<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50">](https://nodejs.org/)
+[<img src="https://skillicons.dev/icons?i=nest&theme=dark" width="50">](https://nestjs.com/)
+[<img src="https://skillicons.dev/icons?i=express&theme=dark" width="50">](https://expressjs.com/)
 [<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50">](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50">](https://www.mongodb.com/)
+[<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="50">](https://redis.io/)
 [<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50">](https://firebase.google.com/)
 
 [<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50">](https://reactjs.org/)
+[<img src="https://skillicons.dev/icons?i=next&theme=dark" width="50">](https://nextjs.org/)
 [<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50">](https://angular.dev/)
+[<img src="https://skillicons.dev/icons?i=vite&theme=dark" width="50">](https://vite.dev/)
 [<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50">](https://www.typescriptlang.org/)
 [<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50">](https://tailwindcss.com/)
@@ -36,6 +41,7 @@
 
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=vitest&theme=dark" width="50">](https://vitest.dev/)
 [<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
 [<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50">](https://aws.amazon.com/)
 
