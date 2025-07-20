@@ -47,11 +47,11 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8C67DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joschonarth/)
-[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joschonarth@gmail.com)
-[![Rocketseat Profile](https://img.shields.io/badge/-Rocketseat-8C67DA?style=for-the-badge)](https://app.rocketseat.com.br/me/joschonarth)
-[![DIO Profile](https://img.shields.io/badge/-DIO%20Profile-000000?style=for-the-badge)](https://web.dio.me/users/joschonarth/)
-[![Notion](https://img.shields.io/badge/-My%20Library-8C67DA?style=for-the-badge&logo=notion&logoColor=white)](https://alike-direction-d82.notion.site/My-Library-236fab762bab80f3932bee9eb063fe38)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joschonarth/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joschonarth@gmail.com)
+[![Rocketseat Profile](https://img.shields.io/badge/-Rocketseat-9956F6?style=for-the-badge)](https://app.rocketseat.com.br/me/joschonarth)
+[![DIO Profile](https://img.shields.io/badge/-DIO%20Profile-339DD8?style=for-the-badge)](https://web.dio.me/users/joschonarth/)
+[![Notion](https://img.shields.io/badge/My%20Library-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alike-direction-d82.notion.site/My-Library-236fab762bab80f3932bee9eb063fe38)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=joschonarth&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats) -->
 
