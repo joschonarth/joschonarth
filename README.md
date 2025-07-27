@@ -42,6 +42,7 @@
 [<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50">](https://github.com/)
 [<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=vitest&theme=dark" width="50">](https://vitest.dev/)
+[<img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="50">](https://www.prisma.io/)
 [<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50">](https://www.docker.com/)
 [<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50">](https://aws.amazon.com/)
 
