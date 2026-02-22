@@ -22,7 +22,7 @@ Atualmente meu foco está em:
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,nest,next,typescript,javascript,prisma,postgres,vitest,docker,aws,git,github,githubactions&theme=dark" /> -->
 
-## ⚡ Stack
+## 🛠️ Tecnologias & Ferramentas
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,nest,typescript,java,spring,python,flask&theme=dark" />
