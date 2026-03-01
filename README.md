@@ -16,6 +16,7 @@ Atualmente meu foco está em:
 - 🐳 Docker, Cloud e CI/CD
 - 🧪 Testes unitários e integração
 - 📐 Boas práticas (SOLID, Design Patterns)
+- 📄 Documentação de APIs com Swagger/OpenAPI
 - 💼 Desenvolvimento de projetos como Freelancer
 
 <!-- ## ⚡ Stack Principal
