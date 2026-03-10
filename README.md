@@ -26,7 +26,7 @@ Atualmente meu foco está em:
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nest,express,typescript,java,spring,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nest,express,typescript,prisma,java,spring,python,flask&theme=dark" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,next,vite,javascript,tailwind,css,html&theme=dark" />
@@ -38,7 +38,7 @@ Atualmente meu foco está em:
 <img src="https://skillicons.dev/icons?i=vitest,cypress,jest&theme=dark" />
 
 ### 🚀 Infra & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,githubactions&theme=dark" />
 
 ---
 
