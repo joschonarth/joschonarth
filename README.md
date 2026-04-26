@@ -29,10 +29,10 @@ Atualmente meu foco está em:
 <img src="https://skillicons.dev/icons?i=nodejs,nest,express,typescript,prisma,java,spring,python,flask&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,vite,javascript,tailwind,css,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,angular,vite,tailwind,javascript,css,html&theme=dark" />
 
 ### 🗄️ Bancos de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 
 ### 🧪 Testes
 <img src="https://skillicons.dev/icons?i=vitest,cypress,jest&theme=dark" />
