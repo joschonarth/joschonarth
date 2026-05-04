@@ -12,7 +12,7 @@ Atualmente meu foco está em:
 
 - ⚡ Backend com **Node.js** e **Java/Spring Boot**
 - 🎨 Frontend com **React** e **Angular**
-- 🧱 Arquitetura de APIs e Clean Architecture
+- 🏛️ Arquitetura de APIs e Clean Architecture
 - 🐳 Docker, Cloud e CI/CD
 - 🧪 Testes unitários e integração
 - 📐 Boas práticas (SOLID, Design Patterns)
