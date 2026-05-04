@@ -6,12 +6,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Bacharel em Ciência da Computação e atuo como Desenvolvedor Fullstack e Freelancer, criando aplicações modernas, performáticas e escaláveis.
+Sou Bacharel em Ciência da Computação e atuo como Desenvolvedor Fullstack e Freelancer, criando aplicações modernas, performáticas e escaláveis. Tenho experiência com o ecossistema JavaScript — **Node.js e React** — e com o ecossistema corporativo **Java, Spring e Angular**.
 
 Atualmente meu foco está em:
 
-- ⚡ Backend com Node.js
-- ⚛️ Frontend com React
+- ⚡ Backend com **Node.js** e **Java/Spring Boot**
+- 🎨 Frontend com **React** e **Angular**
 - 🧱 Arquitetura de APIs e Clean Architecture
 - 🐳 Docker, Cloud e CI/CD
 - 🧪 Testes unitários e integração
@@ -26,10 +26,10 @@ Atualmente meu foco está em:
 ## 🛠️ Tecnologias & Ferramentas
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nest,express,typescript,prisma,java,spring,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nest,express,prisma,java,spring,hibernate,maven,python,flask&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,angular,vite,tailwind,javascript,css,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,angular,vite,tailwind,typescript,javascript,css,html&theme=dark" />
 
 ### 🗄️ Bancos de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
