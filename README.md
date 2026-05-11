@@ -10,7 +10,7 @@ Sou Bacharel em Ciência da Computação e atuo como Desenvolvedor Fullstack e F
 
 Atualmente meu foco está em:
 
-- ⚡ Backend com **Node.js** e **Java/Spring Boot**
+- ⚡ Backend com **Node.js** e **Java/Spring**
 - 🎨 Frontend com **React** e **Angular**
 - 🏛️ Arquitetura de APIs e Clean Architecture
 - 🐳 Docker, Cloud e CI/CD
@@ -18,10 +18,6 @@ Atualmente meu foco está em:
 - 📐 Boas práticas (SOLID, Design Patterns)
 - 📄 Documentação de APIs com Swagger/OpenAPI
 - 💼 Desenvolvimento de projetos como Freelancer
-
-<!-- ## ⚡ Stack Principal
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,nest,next,typescript,javascript,prisma,postgres,vitest,docker,aws,git,github,githubactions&theme=dark" /> -->
 
 ## 🛠️ Tecnologias & Ferramentas
 
