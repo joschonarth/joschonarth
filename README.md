@@ -1,36 +1,54 @@
-# João Otávio Schonarth 👋
+<h1 align="center">João Otávio Schonarth 👋</h1>
 
-`Fullstack Developer | Freelancer`
+<p align="center">
+  Full Stack Developer at 
+  <a href="https://www.autoarremate.com.br/">Auto Arremate</a>
+</p>
+
+<p align="center">
+  Passionate about scalable applications, clean architecture, and modern web development.
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou Bacharel em Ciência da Computação e atuo como Desenvolvedor Fullstack e Freelancer, criando aplicações modernas, performáticas e escaláveis. Tenho experiência com o ecossistema JavaScript — **Node.js e React** — e com o ecossistema corporativo **Java, Spring e Angular**.
+Full Stack Developer with experience building enterprise and modern web applications using **Java**, **Spring**, **Angular**, **Node.js**, and **React**.
 
-Atualmente meu foco está em:
+Focused on scalable applications, REST APIs, clean architecture, and modern web experiences with maintainable and high-quality code.
 
-- ⚡ Backend com **Node.js** e **Java/Spring**
-- 🎨 Frontend com **React** e **Angular**
-- 🏛️ Arquitetura de APIs e Clean Architecture
-- 🐳 Docker, Cloud e CI/CD
-- 🧪 Testes unitários e integração
-- 📐 Boas práticas (SOLID, Design Patterns)
-- 📄 Documentação de APIs com Swagger/OpenAPI
-- 💼 Desenvolvimento de projetos como Freelancer
+### 🚀 Main Technologies & Interests
 
-## 🛠️ Tecnologias & Ferramentas
+- ⚡ Backend development with **Java/Spring** and **Node.js**
+- 🎨 Frontend applications with **Angular** and **React**
+- 🏛️ REST APIs and Clean Architecture
+- 🐳 Docker, Cloud, and CI/CD
+- 🧪 Unit and Integration Testing
+- 📐 SOLID principles and Design Patterns
+- 📄 API documentation with Swagger/OpenAPI
+
+---
+
+## 💼 Current Experience
+
+Full Stack Developer at **[Auto Arremate](https://www.autoarremate.com.br/)**.
+
+Working on enterprise applications, REST APIs, system integrations, and software maintenance using Java, Spring, and Angular.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nest,express,prisma,java,spring,hibernate,maven,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,express,prisma,python,flask&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,angular,vite,tailwind,typescript,javascript,css,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,react,next,vite,tailwind,typescript,javascript,css,html&theme=dark" />
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 
-### 🧪 Testes
+### 🧪 Testing
 <img src="https://skillicons.dev/icons?i=vitest,cypress,jest&theme=dark" />
 
 ### 🚀 Infra & DevOps
@@ -38,7 +56,7 @@ Atualmente meu foco está em:
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joschonarth/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joschonarth@gmail.com)
