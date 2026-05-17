@@ -29,14 +29,6 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 
 ---
 
-## 💼 Current Experience
-
-Full Stack Developer at **[Auto Arremate](https://www.autoarremate.com.br/)**.
-
-Working on enterprise applications, REST APIs, system integrations, and software maintenance using Java, Spring, and Angular.
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### ⚙️ Backend
@@ -56,6 +48,31 @@ Working on enterprise applications, REST APIs, system integrations, and software
 
 ---
 
+## 💼 Experience
+
+### 🏢 Full Stack Developer at [Auto Arremate](https://www.autoarremate.com.br/)
+
+Working on the development and maintenance of enterprise applications using Java, Spring, and Angular, including REST APIs, system integrations, and internal platform improvements.
+
+### 💻 Freelance Developer
+
+Building modern web applications and custom solutions for different business needs, with focus on performance, scalability, responsive interfaces, and user experience.
+
+#### 📌 Featured Projects
+
+- 🏋️ **[HyperFit](https://hyperfit-consultoria.vercel.app/)**  
+  Modern web platform for a fitness consulting business with responsive design and optimized user experience.
+
+---
+<!--
+## 📜 Certifications
+
+| Certification | Institution | Year |
+|---|---|---|
+| [Formação Java](https://www.rocketseat.com.br/referral/one?referral=joschonarth&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one-certificate-modal&coupon=indicamgm) | Rocketseat | 2025 |
+
+---
+-->
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joschonarth/)
