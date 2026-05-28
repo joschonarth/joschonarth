@@ -3,10 +3,9 @@
 <p align="center">
   Full Stack Developer at 
   <a href="https://www.autoarremate.com.br/">Auto Arremate</a>
-</p>
-
-<p align="center">
-  Passionate about scalable applications, clean architecture, and modern web development.
+  <br/>
+  Professional GitHub:
+  <a href="https://github.com/joschonarth-aar">@joschonarth-aar</a>
 </p>
 
 ---
@@ -54,6 +53,8 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 
 Working on the development and maintenance of enterprise applications using Java, Spring, and Angular, including REST APIs, system integrations, and internal platform improvements.
 
+- Professional GitHub: [@joschonarth-aar](https://github.com/joschonarth-aar)
+
 ### 💻 Freelance Developer
 
 Building modern web applications and custom solutions for different business needs, with focus on performance, scalability, responsive interfaces, and user experience.
@@ -64,18 +65,28 @@ Building modern web applications and custom solutions for different business nee
   Modern web platform for a fitness consulting business with responsive design and optimized user experience.
 
 ---
+
 <!--
 ## 📜 Certifications
 
 | Certification | Institution | Year |
 |---|---|---|
 | [Formação Java](https://www.rocketseat.com.br/referral/one?referral=joschonarth&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one-certificate-modal&coupon=indicamgm) | Rocketseat | 2025 |
-
----
 -->
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn — [linkedin.com/in/joschonarth](https://www.linkedin.com/in/joschonarth/)
+- 📧 Email — [joschonarth@gmail.com](mailto:joschonarth@gmail.com)
+- 🐙 Professional GitHub — [@joschonarth-aar](https://github.com/joschonarth-aar)
+- 🚀 Rocketseat — [app.rocketseat.com.br/me/joschonarth](https://app.rocketseat.com.br/me/joschonarth)
+- 🎓 DIO — [web.dio.me/users/joschonarth](https://web.dio.me/users/joschonarth)
+
+<!--
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joschonarth/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joschonarth@gmail.com)
 [![Rocketseat Profile](https://img.shields.io/badge/-Rocketseat-9956F6?style=for-the-badge)](https://app.rocketseat.com.br/me/joschonarth)
 [![DIO Profile](https://img.shields.io/badge/-DIO%20Profile-339DD8?style=for-the-badge)](https://web.dio.me/users/joschonarth/)
+-->
