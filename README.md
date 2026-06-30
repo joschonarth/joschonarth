@@ -81,6 +81,7 @@ Building modern web applications and custom solutions for different business nee
 - 🐙 Professional GitHub — [@joschonarth-aar](https://github.com/joschonarth-aar)
 - 🚀 Rocketseat — [app.rocketseat.com.br/me/joschonarth](https://app.rocketseat.com.br/me/joschonarth)
 - 🎓 DIO — [web.dio.me/users/joschonarth](https://web.dio.me/users/joschonarth)
+- 📘 Alura — [https://cursos.alura.com.br/user/joschonarth](https://cursos.alura.com.br/user/joschonarth)
 
 <!--
 ## 🌐 Connect with Me
