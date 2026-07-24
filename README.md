@@ -76,12 +76,12 @@ Building modern web applications and custom solutions for different business nee
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn — [linkedin.com/in/joschonarth](https://www.linkedin.com/in/joschonarth/)
-- 📧 Email — [joschonarth@gmail.com](mailto:joschonarth@gmail.com)
-- 🐙 Professional GitHub — [@joschonarth-aar](https://github.com/joschonarth-aar)
-- 🚀 Rocketseat — [app.rocketseat.com.br/me/joschonarth](https://app.rocketseat.com.br/me/joschonarth)
-- 🎓 DIO — [web.dio.me/users/joschonarth](https://web.dio.me/users/joschonarth)
-- 📘 Alura — [https://cursos.alura.com.br/user/joschonarth](https://cursos.alura.com.br/user/joschonarth)
+- 💼 LinkedIn: [linkedin.com/in/joschonarth](https://www.linkedin.com/in/joschonarth/)
+- 📧 Email: [joschonarth@gmail.com](mailto:joschonarth@gmail.com)
+- 🐙 Professional GitHub: [@joschonarth-aar](https://github.com/joschonarth-aar)
+- 🚀 Rocketseat: [app.rocketseat.com.br/me/joschonarth](https://app.rocketseat.com.br/me/joschonarth)
+- 🎓 DIO: [web.dio.me/users/joschonarth](https://web.dio.me/users/joschonarth)
+- 📘 Alura: [cursos.alura.com.br/user/joschonarth](https://cursos.alura.com.br/user/joschonarth)
 
 <!--
 ## 🌐 Connect with Me
