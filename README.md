@@ -31,7 +31,7 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 ## 🛠️ Technologies & Tools
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,express,prisma,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,express,python,flask&theme=dark" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=angular,react,next,vite,tailwind,typescript,javascript,css,html&theme=dark" />
