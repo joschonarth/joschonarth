@@ -2,10 +2,7 @@
 
 <p align="center">
   Full Stack Developer at 
-  <a href="https://www.autoarremate.com.br/">Auto Arremate</a>
-  <br/>
-  Professional GitHub:
-  <a href="https://github.com/joschonarth-aar">@joschonarth-aar</a>
+  <a href="https://github.com/joschonarth-aar">Auto Arremate</a>
 </p>
 
 ---
@@ -49,11 +46,9 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 
 ## 💼 Experience
 
-### 🏢 Full Stack Developer at [Auto Arremate](https://www.autoarremate.com.br/)
+### 🏢 Full Stack Developer at [Auto Arremate](https://github.com/joschonarth-aar)
 
 Working on the development and maintenance of enterprise applications using Java, Spring, and Angular, including REST APIs, system integrations, and internal platform improvements.
-
-- Professional GitHub: [@joschonarth-aar](https://github.com/joschonarth-aar)
 
 ### 💻 Freelance Developer
 
