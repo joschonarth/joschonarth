@@ -18,6 +18,8 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 - ⚡ Backend development with **Java/Spring** and **Node.js**
 - 🎨 Frontend applications with **Angular** and **React**
 - 🏛️ REST APIs and Clean Architecture
+- 🧩 Microservices and Domain-Driven Design (DDD)
+- 🐇 Message-driven architectures with **RabbitMQ**
 - 🐳 Docker, Cloud, and CI/CD
 - 🧪 Unit and Integration Testing
 - 📐 SOLID principles and Design Patterns
@@ -28,7 +30,7 @@ Focused on scalable applications, REST APIs, clean architecture, and modern web 
 ## 🛠️ Technologies & Tools
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,express,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,express,python,flask,rabbitmq&theme=dark" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=angular,react,next,vite,tailwind,typescript,javascript,css,html&theme=dark" />
